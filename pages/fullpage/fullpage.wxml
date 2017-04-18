@@ -17,7 +17,7 @@
 			<text class="section-subtitle">cinoLiu--4</text>
 		</view>
 		<view class="section section05 {{scrollindex==4?'active':''}}" style="background: #9966FF;">
-			<text class="section-maintitle">无缝对接双创服5</text>
+			<text class="section-maintitle">测试测试测试5</text>
 			<text class="section-subtitle">cinoLiu--5</text>
 		</view>
 	</view>
